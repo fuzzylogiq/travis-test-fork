@@ -32,6 +32,8 @@
 			<array>
 				<string>unstable</string>
 			</array>
+      <key>category</key>
+      <string>Audio and Video</string>
 			<key>description</key>
 			<string>Simple and fast transcode for various media formats.</string>
 			<key>developer</key>
